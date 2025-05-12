@@ -1,0 +1,5 @@
+O programa utiliza um laço de repetição while True para executar continuamente até que o usuário decida parar. Dentro do loop, ele solicita ao usuário dois números inteiros por meio do input, convertendo-os com int(). Em seguida, pede que o usuário escolha uma operação matemática dentre quatro opções: adição (1), subtração (2), multiplicação (3) ou divisão (4).
+
+Com base na escolha, o programa executa a operação correspondente usando uma estrutura condicional if-elif-else. No caso da divisão, ele verifica se nenhum dos números é zero para evitar erro de divisão por zero. Se o usuário digitar um código inválido, é exibida uma mensagem de erro.
+
+Após realizar a operação, o programa pergunta ao usuário se deseja continuar. Se a resposta for diferente de “s” (sim), o loop é encerrado com uma mensagem final.
