@@ -1,0 +1,6 @@
+#Criacao e edicao de script:
+#para criar o arquivo 'calc.sh' utilizei o nano com o seguinte comando 'nano calc.sh' tambem utilizei para edicao dos demais
+#Alteracao de permissoes
+#para conceder as permissoes adequadas ao arquivos executei o comando 'chmod 744' isso garante que o dono tenha permissao total leitura escrita execucao enquanto os outros com apenas de leitura (assim como aprendi com o ultimo erro :b)
+#execucao do script
+#para o script usei o comando './calc.sh'
